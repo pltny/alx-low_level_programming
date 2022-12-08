@@ -1,1 +1,1 @@
-This is c progrmming
+coding with c
