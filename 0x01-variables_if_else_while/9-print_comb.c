@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 /**
- * min - entry point
+ * main - entry point
  * Return:Always 0 (success)
  */
 int main(void)
@@ -13,7 +13,7 @@ int main(void)
 		putchar(n);
 	if (n != 57)
 	{
-		putchar(',');  
+		putchar(',');
 		putchar(' ');
 	}
 	}
