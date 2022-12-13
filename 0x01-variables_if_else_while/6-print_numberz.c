@@ -3,10 +3,7 @@
 
 /**
  * main - entry point
- *
- * Description - printing 0 to 10
- *
- * return: Always 0 (success)
+ * Return: Always 0 (success)
  */
 int main(void)
 {
