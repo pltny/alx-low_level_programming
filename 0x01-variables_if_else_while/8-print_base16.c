@@ -2,7 +2,7 @@
 #include<stdio.h>
 
 /**
- * mian - Entry point
+ * main - Entry point
  *
  * Description: printing hexadecimal
  *
