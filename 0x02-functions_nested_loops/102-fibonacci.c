@@ -2,7 +2,7 @@
 
 /**
  * main - prints the first 50 Fibonacci numbers, starting with 1 and 2
- * Retur;0
+ * Return: nothing
  */
 
 int main(void)
