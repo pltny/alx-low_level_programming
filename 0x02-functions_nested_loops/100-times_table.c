@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * print_times_table(int n) - prints the table
- * starting with
+ * print_times_table - prints the table
  * @n:no of times the table is to be printed
+ * Return:
  */
 
 void print_times_table(int n)
@@ -43,7 +43,7 @@ void print_times_table(int n)
 				_putchar(',');
 				_putchar(' ');
 			}
-		}
+}
                 _putchar('\n');
 		a++;
 	}
