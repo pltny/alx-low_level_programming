@@ -32,4 +32,5 @@ int _atoi(char *s)
 	d++;
 	f *= g;
 	return (f);
+	}
 }
