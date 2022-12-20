@@ -42,9 +42,11 @@ int main(void)
 		{
 			if (password[index] >= (33 + diff_half2))
 			{
-			passord[index] = diff_half2;
+			password[index] = diff_half2;
 				break;
 			}
 		}
 	}
+	printf("%s", password);
+	return (0);
 }
