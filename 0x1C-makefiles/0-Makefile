@@ -1,0 +1,9 @@
+# 1st  Makefile
+# Requirements:
+# name of  executable: school
+# rules: all
+# builds your executable
+# variables: none
+
+all: main.c school.c
+	gcc main.c school.c -o school
