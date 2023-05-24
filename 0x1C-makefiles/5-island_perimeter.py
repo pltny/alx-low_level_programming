@@ -1,9 +1,14 @@
 #!/usr/bin/python3
-"""Defines function."""
+"""Defines a function."""
 
 
 def island_perimeter(grid):
-    """Return the perimiter 
+    """Return the perimiter of an island.
+    The grid 
+    Args:
+        grid (list): A list island.
+    Returns:
+        The perimeter of the island defined in grid.
     """
     width = len(grid[0])
     height = len(grid)
