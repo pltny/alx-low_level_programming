@@ -40,8 +40,8 @@ int _binary_search(int *array, size_t left, size_t right, int value)
 }
 
 /**
- * exponential_search - Searches for a value 
- * @array: A pointer to the first element 
+ * exponential_search - Searches for a value
+ * @array: A pointer to the first element
  * @size: The number of elements in the array.
  * @value: The value to search for.
  *

@@ -22,7 +22,7 @@ size_t minimum_value(size_t a, size_t b)
  * @size: number of array element
  * @value: search value
  *
- * Return: first index 
+ * Return: first index
  */
 int jump_search(int *array, size_t size, int value)
 {

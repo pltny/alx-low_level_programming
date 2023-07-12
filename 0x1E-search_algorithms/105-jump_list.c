@@ -2,7 +2,7 @@
 #include "search_algos.h"
 
 /**
- * move_foward: moves alist foward
+ * move_forward - the move foward moves alist foward
  * @list: list which is moved foward
  * @index: index
  *
@@ -16,7 +16,7 @@ listint_t *move_forward(listint_t *list, size_t index)
 }
 
 /**
- * jump_list - searches for a value 
+ * jump_list - searches for a value
  * @list: pointer
  * @size: no of nodes
  * @value: value to search for

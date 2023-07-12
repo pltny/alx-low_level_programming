@@ -2,11 +2,11 @@
 
 /**
  * interpolation_search - Searches a value
- * @array: The array to search 
+ * @array: The array to search
  * @size: The length of the array.
  * @value: The value to look for.
  *
- * Return: The first index of the value in 
+ * Return: The first index of the value in
  */
 int interpolation_search(int *array, size_t size, int value)
 {
